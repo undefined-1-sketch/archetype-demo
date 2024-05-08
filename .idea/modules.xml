@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arbamboo-plugin-archetype/arbamboo-plugin-archetype.iml" filepath="$PROJECT_DIR$/arbamboo-plugin-archetype/arbamboo-plugin-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/archetype-demo.iml" filepath="$PROJECT_DIR$/.idea/archetype-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/ear/ear.iml" filepath="$PROJECT_DIR$/j2ee-simple/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/j2ee-simple/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/j2ee-simple.iml" filepath="$PROJECT_DIR$/j2ee-simple/j2ee-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/projects/logging/logging.iml" filepath="$PROJECT_DIR$/j2ee-simple/projects/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marmalade-mojo/marmalade-mojo.iml" filepath="$PROJECT_DIR$/marmalade-mojo/marmalade-mojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mojo/mojo.iml" filepath="$PROJECT_DIR$/mojo/mojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/primary-source/primary-source.iml" filepath="$PROJECT_DIR$/j2ee-simple/primary-source/primary-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/projects/projects.iml" filepath="$PROJECT_DIR$/j2ee-simple/projects/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/servlets/servlet/servlet.iml" filepath="$PROJECT_DIR$/j2ee-simple/servlets/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2ee-simple/servlets/servlets.iml" filepath="$PROJECT_DIR$/j2ee-simple/servlets/servlets.iml" />
+    </modules>
+  </component>
+</project>

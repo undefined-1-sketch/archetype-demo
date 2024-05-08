@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: marmalade:marmalade-el-commons:1.0-alpha-3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/marmalade/marmalade-el-commons/1.0-alpha-3/marmalade-el-commons-1.0-alpha-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/marmalade/marmalade-el-commons/1.0-alpha-3/marmalade-el-commons-1.0-alpha-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/marmalade/marmalade-el-commons/1.0-alpha-3/marmalade-el-commons-1.0-alpha-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
